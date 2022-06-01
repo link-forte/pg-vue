@@ -5,6 +5,6 @@ module.exports = defineConfig({
         port: 3000,
     },
     publicPath: "/pg-vue",
-    assetDir: "static",
+    assetsDir: "static",
     outputDir: "./docs",
 })
